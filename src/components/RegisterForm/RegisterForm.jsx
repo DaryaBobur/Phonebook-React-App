@@ -69,7 +69,7 @@ const RegisterForm = () => {
                     margin="dense"
                     type="password"
                     name="password"
-                    inputProps={{ minlength: "7"  }}
+                    inputProps={{ minLength: "7"  }}
                     required
        
                 />
